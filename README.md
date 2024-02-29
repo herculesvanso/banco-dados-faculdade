@@ -1,7 +1,7 @@
 # banco-dados-faculdade
 Projeto de um banco de dados de uma faculdade para o estudo de modelagem de um banco de dados.
 
-##Etapas
+## Etapas
 1. Levantamento de Requisitos
 2. Identificando Entidades de Atributos
 3. Diagrama Entidade Relacionamento
@@ -11,7 +11,7 @@ Projeto de um banco de dados de uma faculdade para o estudo de modelagem de um b
 7. Implementação
 8. Teste
 
-##Ferramentas
+## Ferramentas
 1. brModelo 3.0
 2. Postgresql
 
